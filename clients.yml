@@ -3,6 +3,8 @@ spring:
     consul:
       host: localhost
       port: 8500
+    config:
+     fail-fast: true  
   rabbitmq:
   host: localhost
   port: 5672
