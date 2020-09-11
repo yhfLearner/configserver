@@ -3,4 +3,4 @@ spring:
     consul:
       host: localhost
       port: 8500
-name: yhf1
+name: yhf
