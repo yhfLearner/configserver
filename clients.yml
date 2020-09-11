@@ -3,4 +3,8 @@ spring:
     consul:
       host: localhost
       port: 8500
-name: yhf
+  rabbitmq:
+  host: localhost
+  port: 5672
+  username: guest
+  password: guest
